@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raovikrant82
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning HTML, CSS, Ruby and RubyOnRails
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on anything.
 - 📫 reach me on raovikrant82@gmail.com (email), @imvikrantrao (twitter), www.linkedin.com/in/raovikrant (linkedin)
 
 <!---
